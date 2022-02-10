@@ -1,6 +1,10 @@
 ### SQL / JAVA / JAVASCRIPT BEGGINER 💬
 <!-- 배경 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Na%20JeongSoo&fontSize=90)
+<img src="https://img.shields.io/badge/%EB%B1%83%EC%A7%80%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%BC%EA%B9%8C-orange"/></a>
+
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeongSooNa)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JeongSooNa/JeongSooNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,15 +12,6 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a> &nbsp
 </p>
-\begin{abstract}
-Your abstract
-\end{abstract}
-%
-%
-% Snippet for adding SAS badges
-\begin{center}
-  \includegraphics[scale=0.16]{sas-artifact-badges/ValidatedBadge.png} \includegraphics[scale=0.16]{sas-artifact-badges/ExtensibleBadge.png} \includegraphics[scale=0.16]{sas-artifact-badges/AvailableBadge.png}%
-\end{center}
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeongSooNa)](https://github.com/anuraghazra/github-readme-stats)

@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a> &nbsp
 <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SAS-black.svg?style=for-the-badge"/></a> &nbsp
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> &nbsp
 </p>
 
 

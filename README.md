@@ -18,7 +18,6 @@
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeongSooNa)](https://github.com/anuraghazra/github-readme-stats)
-[![CodeForces Profile](https://cf.leed.at?id={your handle})](https://codeforces.com/profile/{your handle})
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JeongSooNa-counter)](https://hits.seeyoufarm.com)
 <!--
 **JeongSooNa/JeongSooNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

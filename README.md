@@ -18,6 +18,7 @@
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeongSooNa)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://opgc.me/#/users/JeongSooNa" target="_blank"><img src="https://api.opgc.me/githubs/users/JeongSooNa/tag/?theme=basic" /></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JeongSooNa-counter)](https://hits.seeyoufarm.com)
 <!--
 **JeongSooNa/JeongSooNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

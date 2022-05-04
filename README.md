@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Gradle-black.svg?style=for-the-badge&logo=Gradle&logoColor=white"/></a> &nbsp
 
 </p>
 

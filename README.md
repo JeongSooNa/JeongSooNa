@@ -29,6 +29,7 @@
 ---
 
 https://www.instagram.com/94__jeongsoo/
+https://open.kakao.com/o/szkPHjfe/
 <!--
 **JeongSooNa/JeongSooNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

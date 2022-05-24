@@ -26,6 +26,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JeongSooNa-counter)](https://hits.seeyoufarm.com)
 ---
 https://www.instagram.com/94__jeongsoo/
+---
+<img src="https://img.shields.io/badge/js.main.io-black.svg?style=for-the-badge"/>http://js.main.io.s3-website.ap-northeast-2.amazonaws.com/</a> &nbsp
 <!--
 **JeongSooNa/JeongSooNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

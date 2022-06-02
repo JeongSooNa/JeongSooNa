@@ -25,7 +25,7 @@
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JeongSooNa-counter)](https://hits.seeyoufarm.com)
 ---
-https://www.instagram.com/94__jeongsoo/
+[Instagram](https://www.instagram.com/94__jeongsoo/)
 ---
 [JS.io](http://js.main.io.s3-website.ap-northeast-2.amazonaws.com/)
 <!--

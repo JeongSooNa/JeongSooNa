@@ -27,7 +27,7 @@
 ---
 https://www.instagram.com/94__jeongsoo/
 ---
-<a src="http://js.main.io.s3-website.ap-northeast-2.amazonaws.com/">JS.io</a>
+<h1 src="http://js.main.io.s3-website.ap-northeast-2.amazonaws.com/">JS.io</h1>
 <!--
 **JeongSooNa/JeongSooNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/Gradle-black.svg?style=for-the-badge&logo=Gradle&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab&logoColor=white"/></a> &nbsp
 
 </p>
 

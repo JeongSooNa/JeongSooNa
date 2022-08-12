@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/cent%20os-black?style=for-the-badge&logo=centos&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/shell_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a> &nbsp
 
 
 

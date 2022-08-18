@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/shell_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a> &nbsp
 
-
+![jpg](http://www.syntekabio.com/asset/images/all/main_logo_white.png)
 
 </p>
 

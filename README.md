@@ -1,4 +1,4 @@
-### Junior Developer 💬
+### Junior Developer & Drug Development AI Operator 💬
 <!-- 배경 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Na%20JeongSoo&fontSize=90)
 

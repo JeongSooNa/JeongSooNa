@@ -33,7 +33,7 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JeongSooNa-counter)](https://hits.seeyoufarm.com)
 ---

@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/r-black.svg?style=for-the-badge&logo=r&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/r-black.svg?style=for-the-badge&logo=r&logoColor=23276DC3"/></a> &nbsp
 <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SAS-black.svg?style=for-the-badge"/></a> &nbsp
@@ -20,8 +20,8 @@
 <img src="https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=236DB33F"/></a> &nbsp
 <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &nbsp
-<img src="https://img.shields.io/badge/Gradle-black.svg?style=for-the-badge&logo=Gradle&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Gradle-black.svg?style=for-the-badge&logo=Gradle&logoColor=02303A"/></a> &nbsp
+<img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=23FF9900"/></a> &nbsp
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/cent%20os-black?style=for-the-badge&logo=centos&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white"/></a> &nbsp

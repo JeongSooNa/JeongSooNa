@@ -14,9 +14,9 @@
 <img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/r-black.svg?style=for-the-badge&logo=r&logoColor=%235391FE"/></a> &nbsp
 <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=23F7DF1E"/></a> &nbsp
-<img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=%6DA55F"/></a> &nbsp
 <img src="https://img.shields.io/badge/SAS-black.svg?style=for-the-badge"/></a> &nbsp
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%0078d7"/></a> &nbsp
 <img src="https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=236DB33F"/></a> &nbsp
 <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &nbsp

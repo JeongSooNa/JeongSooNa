@@ -22,9 +22,9 @@
 <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &nbsp
 <img src="https://img.shields.io/badge/Gradle-black.svg?style=for-the-badge&logo=Gradle&logoColor=02303A"/></a> &nbsp
 <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900"/></a> &nbsp
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/cent%20os-black?style=for-the-badge&logo=centos&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=FCC624"/></a> &nbsp
+<img src="https://img.shields.io/badge/cent%20os-black?style=for-the-badge&logo=centos&logoColor=002260"/></a> &nbsp
+<img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=E95420"/></a> &nbsp
 <img src="https://img.shields.io/badge/shell_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab&logoColor=white"/></a> &nbsp
 

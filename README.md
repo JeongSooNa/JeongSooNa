@@ -34,9 +34,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa&langs_count=10&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JeongSooNa-counter)](https://hits.seeyoufarm.com)
----
 [P O R T F O L I O](http://js.main.io.s3-website.ap-northeast-2.amazonaws.com/)
+---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JeongSooNa-counter)](https://hits.seeyoufarm.com)
 <!--
 **JeongSooNa/JeongSooNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

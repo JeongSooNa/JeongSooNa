@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=E95420"/></a> &nbsp
 <img src="https://img.shields.io/badge/shell_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/gitlab-white?style=for-the-badge&logo=gitlab&logoColor=E95420">
 
 ***
 

@@ -27,7 +27,8 @@
 <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/shell_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/chart.js-black?style=for-the-badge&logo=chart.js&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=white"/></a> &nbsp  
+
 ***
 
 

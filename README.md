@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/chart.js-black?style=for-the-badge&logo=chart.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=white"/></a> &nbsp  
 <img src="https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> &nbsp 
-
+<img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a> &nbsp
 ***
 
 

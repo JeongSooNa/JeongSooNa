@@ -31,11 +31,9 @@
 <img src="https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a> &nbsp
 
+</p>
 
 ***
-
-
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa&langs_count=10&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 ---

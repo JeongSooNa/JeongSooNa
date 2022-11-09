@@ -9,17 +9,17 @@
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/r-black.svg?style=for-the-badge&logo=r&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/SAS-black.svg?style=for-the-badge"/></a> &nbsp
 <img src="https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/r-black.svg?style=for-the-badge&logo=r&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/SAS-black.svg?style=for-the-badge"/></a> &nbsp
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Gradle-black.svg?style=for-the-badge&logo=Gradle&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/></a> &nbsp

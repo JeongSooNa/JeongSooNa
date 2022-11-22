@@ -4,7 +4,6 @@
 ***
 <!-- 배경 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Na%20JeongSoo&fontSize=90) -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeongSooNa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -35,6 +34,7 @@
 </p>
 
 ***
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeongSooNa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa&langs_count=8&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 ---

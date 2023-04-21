@@ -44,7 +44,6 @@
 ---
 <!-- [P O R T F O L I O](http://js.main.io.s3-website.ap-northeast-2.amazonaws.com/)   -->
 <!-- http://js.main.io.s3-website.ap-northeast-2.amazonaws.com/ -->
-[S T A C K O V E R F L O W](https://stackoverflow.com/users/20030237/jeongsoo-na)
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JeongSooNa-counter)](https://hits.seeyoufarm.com)
 <!--

@@ -35,7 +35,7 @@
 
 ***
 
-:rocket: Used Tools :rocket:
+<h3 align="center"><b>:rocket: Used Tools :rocket:</b></h3>
 
 <img src="https://img.shields.io/badge/Gnina-skyblue?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/DiffDock-skyblue?style=for-the-badge"/></a>

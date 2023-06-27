@@ -36,7 +36,8 @@
 ***
 
 :rocket: Used Tools :rocket:
-https://img.shields.io/badge/Gnina-red?style=for-the-badge&logoColor=blue
+<img src="https://img.shields.io/badge/Gnina-red?style=for-the-badge&logoColor=blue"/></a> &nbsp
+
 
 
 ***

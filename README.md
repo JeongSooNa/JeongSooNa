@@ -35,11 +35,21 @@
 
 ***
 
-<h3 align="center"><b>:rocket: Used Tools :rocket:</b></h3>
+<h3 align="center"><b>:rocket: Bio Technology :rocket:</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Gnina-skyblue?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/DiffDock-skyblue?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/AlphaFold2-skyblue?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/RDkit-skyblue?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/Uniprot-skyblue?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/PLIP-skyblue?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/ZINC-skyblue?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/RCSB-skyblue?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/AutoDock-skyblue?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/PubChem-skyblue?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/ChEMBL-skyblue?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/RxDock-skyblue?style=for-the-badge"/></a>
 </p>
 
 

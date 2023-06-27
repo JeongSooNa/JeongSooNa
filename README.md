@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Colab-black?style=for-the-badge&logo=colab&logoColor=white"/></a> &nbsp
 
 </p>
 

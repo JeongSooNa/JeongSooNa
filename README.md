@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/ZINC-skyblue?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/RCSB-skyblue?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/AutoDock Vina-skyblue?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/AutoDock GPU-skyblue?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/PubChem-skyblue?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/ChEMBL-skyblue?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/RxDock-skyblue?style=for-the-badge"/></a>

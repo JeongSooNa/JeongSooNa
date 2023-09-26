@@ -56,7 +56,7 @@
 
 </br>
 
-<h3 align="center"><b>AI Drug Development *Insilico* Tools and Database</b></h3>
+<h5 align="center">AI Drug Development <i>Insilico</i> Tools and Database</h5>
 
 ***
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JeongSooNa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)

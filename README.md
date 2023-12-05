@@ -52,6 +52,7 @@
 <img src="https://img.shields.io/badge/PubChem-skyblue?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/ChEMBL-skyblue?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/RxDock-skyblue?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/DeepDock-skyblue?style=for-the-badge"/></a>
 </p>
 
 </br>

@@ -1,5 +1,3 @@
-<!-- ![jpg](http://www.syntekabio.com/asset/images/all/main_logo_white.png) -->
-### Junior Developer & Drug Development AI Operator 💬
 
 ***
 <!-- 배경 -->

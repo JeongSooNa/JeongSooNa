@@ -62,8 +62,10 @@
  -->
 <!-- most used language -->
 
+<center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa&langs_count=8&layout=compact&hide=html,css,scss,java,javascript)](https://github.com/anuraghazra/github-readme-stats)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongSooNa&show_icons=true&theme=prussian)
+</center>
 
 ---
 <!-- [P O R T F O L I O](http://js.main.io.s3-website.ap-northeast-2.amazonaws.com/)   -->

@@ -62,7 +62,7 @@
  -->
 <!-- most used language -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa&langs_count=8&layout=compact&hide=html,css,scss,java,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa&langs_count=8&layout=compact&hide=html,css,scss,java,javascript)](https://github.com/anuraghazra/github-readme-stats)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongSooNa&show_icons=true&theme=prussian)
 
 ---

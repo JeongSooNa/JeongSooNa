@@ -3,7 +3,7 @@
 <!-- 배경 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Na%20JeongSoo&fontSize=90) -->
 
-<img src="https://img.shields.io/badge/사회조사분석사-2급=blue"/>
+<img src="https://img.shields.io/badge/사회조사분석사-2급-blue"/>
 <img src="https://img.shields.io/badge/SQLD-blue"/>
 <img src="https://img.shields.io/badge/ADsP-blue"/>
 

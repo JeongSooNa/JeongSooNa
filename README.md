@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/사회조사분석사-2급"/>
 <img src="https://img.shields.io/badge/SQLD-blue"/>
-<img src="[https://img.shields.io/badge/ADsP-](https://img.shields.io/badge/ADsP-blue)"/>
+<img src="https://img.shields.io/badge/ADsP-blue"/>
 
 ***
 

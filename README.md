@@ -12,6 +12,7 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
+<img src="https://img.shields.io/badge/vmware.svg?style=for-the-badge&logo=VMware&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp

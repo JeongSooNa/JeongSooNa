@@ -3,8 +3,9 @@
 <!-- 배경 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Na%20JeongSoo&fontSize=90) -->
 
-![_dQoBavYMdeXMpqX78_aZxSBjJDoB6zoAL1gslgkwY9FQp7Y7_pEobm4ycF623uFmO5SNXPCT9MaRLnN3quKfQ](https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682){: width="100" height="100"}
 
+<!--![_dQoBavYMdeXMpqX78_aZxSBjJDoB6zoAL1gslgkwY9FQp7Y7_pEobm4ycF623uFmO5SNXPCT9MaRLnN3quKfQ](https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682)-->
+<img src="[이미지주소.png](https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682)" width="200" height="200"/>
 
 <img src="https://img.shields.io/badge/사회조사분석사-2급-blue"/>
 <img src="https://img.shields.io/badge/SQLD-개발자-blue"/>

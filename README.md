@@ -45,7 +45,7 @@
 
 ***
 
-<h3 align="center"><b>:rocket: Bio Technology :rocket:</b></h3>
+<h3 align="center"><b>:rocket: <i>In-silico</i> Technology :rocket:</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Gnina-skyblue?style=for-the-badge"/></a>

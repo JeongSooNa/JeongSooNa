@@ -7,11 +7,9 @@
 <!--![_dQoBavYMdeXMpqX78_aZxSBjJDoB6zoAL1gslgkwY9FQp7Y7_pEobm4ycF623uFmO5SNXPCT9MaRLnN3quKfQ](https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682)-->
 <img src="https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682" width="100" height="100" align="right"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/사회조사분석사-2급-blue" padding="30px"/>
-<img src="https://img.shields.io/badge/SQLD-개발자-blue" padding="30px"/>
-<img src="https://img.shields.io/badge/ADsP-준전문가-blue" padding="30px"/>
-</p>
+<img src="https://img.shields.io/badge/사회조사분석사-2급-blue"/>
+<img src="https://img.shields.io/badge/SQLD-개발자-blue"/>
+<img src="https://img.shields.io/badge/ADsP-준전문가-blue"/>
 
 ***
 

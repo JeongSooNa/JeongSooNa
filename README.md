@@ -13,10 +13,9 @@
 
 ***
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 Languages 🛠</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/vmware-black.svg?style=for-the-badge&logo=vmware&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp
@@ -26,6 +25,16 @@
 <img src="https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/shell_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=white"/></a> &nbsp  
+</p>
+
+***
+
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/vmware-black.svg?style=for-the-badge&logo=vmware&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=white"/></a> &nbsp
@@ -34,9 +43,7 @@
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/cent%20os-black?style=for-the-badge&logo=centos&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/shell_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/chart.js-black?style=for-the-badge&logo=chart.js&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=white"/></a> &nbsp  
 <img src="https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white"/></a> &nbsp

@@ -34,7 +34,8 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
- <img src="https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/docker-black.svg?style=for-the-badge&logo=docker&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/vmware-black.svg?style=for-the-badge&logo=vmware&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Eclipse-black.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/></a> &nbsp

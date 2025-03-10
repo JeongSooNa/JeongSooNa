@@ -49,6 +49,9 @@
 <img src="https://img.shields.io/badge/chart.js-black?style=for-the-badge&logo=chart.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/virtualbox-black?style=for-the-badge&logo=virtualbox&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/googlecolab-black?style=for-the-badge&logo=googlecolab&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/tmux-black?style=for-the-badge&logo=tmux&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=white"/></a> &nbsp
 </p>
 
 ***

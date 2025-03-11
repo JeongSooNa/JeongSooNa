@@ -26,9 +26,9 @@
 <img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/shell_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=white"/></a> &nbsp  
+<img src="https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Jinja-black?style=for-the-badge&logo=Jinja&logoColor=white"/></a> &nbsp
 </p>
-
 ***
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>

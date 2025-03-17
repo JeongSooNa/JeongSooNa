@@ -4,7 +4,7 @@
 <h5 align="center">Syetem Network Developments JSNa Let's Go</h5>
 
 ***
-
+<img src="https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682" width="100" height="100" align="right"/>
 <!-- 배경 -->
 # HISTORY
 ### 2022~2025::신테카바이오(주) AI신약개발전략기획팀 주임연구원
@@ -22,7 +22,7 @@
 
 
 <!--![_dQoBavYMdeXMpqX78_aZxSBjJDoB6zoAL1gslgkwY9FQp7Y7_pEobm4ycF623uFmO5SNXPCT9MaRLnN3quKfQ](https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682)-->
-<img src="https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682" width="100" height="100" align="right"/>
+
 
 <img src="https://img.shields.io/badge/사회조사분석사-2급-blue"/></a>
 <img src="https://img.shields.io/badge/SQLD-개발자-blue"/></a>

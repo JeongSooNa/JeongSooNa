@@ -25,8 +25,8 @@
 <img src="https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682" width="100" height="100" align="right"/>
 
 <img src="https://img.shields.io/badge/사회조사분석사-2급-blue"/></a>
-<img src="https://img.shields.io/badge/SQLD-개발자-blue"/>
-<img src="https://img.shields.io/badge/ADsP-준전문가-blue"/>
+<img src="https://img.shields.io/badge/SQLD-개발자-blue"/></a>
+<img src="https://img.shields.io/badge/ADsP-준전문가-blue"/></a>
 
 ***
 

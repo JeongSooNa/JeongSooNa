@@ -4,7 +4,6 @@
 <h5 align="center">Syetem Network Developments JSNa Let's Go</h5>
 
 ***
-<img src="https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682" width="100" height="100" align="right"/>
 <!-- 배경 -->
 # HISTORY
 ### 2022~2025::신테카바이오(주) AI신약개발전략기획팀 주임연구원
@@ -115,6 +114,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongSooNa&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa&langs_count=8&layout=compact&hide=html,css,scss,java,javascript)](https://github.com/anuraghazra/github-readme-stats)  
  
+<img src="https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682" width="100" height="100" align="right"/>
 
 </center>
 

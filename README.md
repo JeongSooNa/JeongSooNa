@@ -1,6 +1,18 @@
 
 ***
 <!-- 배경 -->
+# HISTORY
+### 2022~2025::신테카바이오(주) AI신약개발전략기획팀 주임연구원
+- AI 신약개발 툴 운영 및 데이터 분석
+- Python 개발 및 간단한 웹 페이지 제작
+- Linux 환경 서버 인프라 경험
+### 2025~    ::마루이엔지(주) FA팀 주임
+- 네트워크 관리
+- 백업 및 시스템 관리 자동화 프로그램 구현
+
+***
+
+
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Na%20JeongSoo&fontSize=90) -->
 
 

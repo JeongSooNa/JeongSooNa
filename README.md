@@ -108,13 +108,13 @@
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JeongSooNa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
  -->
 <!-- most used language -->
+<img src="https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682" width="100" height="100" align="right"/>
 
 <center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongSooNa&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa&langs_count=8&layout=compact&hide=html,css,scss,java,javascript)](https://github.com/anuraghazra/github-readme-stats)  
  
-<img src="https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682" width="100" height="100" align="right"/>
 
 </center>
 

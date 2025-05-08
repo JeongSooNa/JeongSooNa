@@ -33,7 +33,8 @@
 <img src="https://img.shields.io/badge/사회조사분석사-2급-blue"/></a>
 <img src="https://img.shields.io/badge/SQLD-개발자-blue"/></a>
 <img src="https://img.shields.io/badge/ADsP-준전문가-blue"/></a>
-</center>center>
+</center>
+
 ***
 
 <h3 align="center"><b>🖥️ Languages 🖥️</b></h3>

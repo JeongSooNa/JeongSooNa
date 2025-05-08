@@ -5,11 +5,6 @@
 
 ***
 <!-- 배경 -->
-
-<h5 align="center">Syetem Network Developments JSNa Let's Go</h5>
-
-***
-<!-- 배경 -->
 # HISTORY
 ### 2019.07~2022.06::통계청 통계인재개발원 SAS 초·중·고급 프로그래밍 과정 보조강사
 - SAS 프로그래밍 기초

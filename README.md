@@ -5,8 +5,6 @@
 
 ***
 <!-- 배경 -->
-# HISTORY
-### 2019.07~2022.06::통계교육***
 
 <h5 align="center">Syetem Network Developments JSNa Let's Go</h5>
 

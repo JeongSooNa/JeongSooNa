@@ -29,11 +29,11 @@
 
 <!--![_dQoBavYMdeXMpqX78_aZxSBjJDoB6zoAL1gslgkwY9FQp7Y7_pEobm4ycF623uFmO5SNXPCT9MaRLnN3quKfQ](https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682)-->
 
-
+<center>
 <img src="https://img.shields.io/badge/사회조사분석사-2급-blue"/></a>
 <img src="https://img.shields.io/badge/SQLD-개발자-blue"/></a>
 <img src="https://img.shields.io/badge/ADsP-준전문가-blue"/></a>
-
+</center>center>
 ***
 
 <h3 align="center"><b>🖥️ Languages 🖥️</b></h3>

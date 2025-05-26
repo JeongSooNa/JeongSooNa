@@ -142,7 +142,7 @@
 <!-- [P O R T F O L I O](http://js.main.io.s3-website.ap-northeast-2.amazonaws.com/)   -->
 <!-- http://js.main.io.s3-website.ap-northeast-2.amazonaws.com/ -->
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JeongSooNa-counter)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 <!--
 ** PR!!!
 **JeongSooNa/JeongSooNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

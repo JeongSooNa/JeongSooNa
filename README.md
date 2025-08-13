@@ -1,4 +1,3 @@
-c
 ***
 
 <h5 align="center">Syetem Network Developments JSNa Let's Go</h5>
@@ -122,7 +121,7 @@ c
 </br>
 
 ***
-
+<!--
 ## 상세 기술
 - R :: R Script HTML, PDF File 제작 가능 / 그래프 시각화 및 qqmap을 이용한 지도 구현 가능
 - jQuery :: 기본적인 jQuery 문법 사용경험 / AJAX를 이용해 백앤드와 통신 경험
@@ -133,6 +132,7 @@ c
 - SQL :: 기본적인 DML,DDL 작성 가능 / 프로그래머스 SQL 4단계까지 완료 / MySQL 사용 경험 / SQLD 자격 시험 준비 및 응시, 최종 합격
 - Python :: AI 신약개발 관련 툴 다수 사용 경험 / 웹 크롤링 / 자동화 기능 구현
 - Shell :: 기본적인 Shell script 작성 및 Linux 환경에서의 프로그래밍 운영 숙련
+-->
 
 ***
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JeongSooNa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)

@@ -81,6 +81,11 @@ c
 <img src="https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/proxmox-black?style=for-the-badge&logo=vim&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/github%20pages-black?style=for-the-badge&logo=vim&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/RStudio-black?style=for-the-badge&logo=vim&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=vim&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=vim&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Rocky%20Linux-black?style=for-the-badge&logo=vim&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/flask-black?style=for-the-badge&logo=vim&logoColor=white"/></a> &nbsp
 </p>
 
 ***

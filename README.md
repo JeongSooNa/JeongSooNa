@@ -30,11 +30,13 @@
 
 <!--![_dQoBavYMdeXMpqX78_aZxSBjJDoB6zoAL1gslgkwY9FQp7Y7_pEobm4ycF623uFmO5SNXPCT9MaRLnN3quKfQ](https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682)-->
 
+<!--
 <p align="center">
 <img src="https://img.shields.io/badge/사회조사분석사-2급-blue"/></a> &nbsp
 <img src="https://img.shields.io/badge/SQLD-개발자-blue"/></a> &nbsp
 <img src="https://img.shields.io/badge/ADsP-준전문가-blue"/></a> &nbsp
 </p>
+-->
 
 ***
 

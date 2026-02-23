@@ -134,8 +134,7 @@
 <img src="https://github.com/user-attachments/assets/1aeb8744-f772-487c-a29e-1fbaf5e55682" width="100" height="100" align="right"/>
 
 <center>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongSooNa&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongSooNa)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa&langs_count=8&layout=compact&hide=html,css,scss,java,javascript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)  
  
 

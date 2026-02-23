@@ -135,6 +135,9 @@
 
 <center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongSooNa)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongSooNa&langs_count=8&layout=compact&hide=html,css,scss,java,javascript,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)  
  
 
